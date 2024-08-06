@@ -5,17 +5,13 @@
 </head>
 <body>
     <div id="container">
-        <div id="lado_esquerdo"></div>
-        <div id="lado_direito"></div>
-        <div id="centro">
-            <form action="servidor.php" method="post">
-                Usuario
-                <input type="text" id="name" name="name" required>
-                Email
-                <input type="email" required>
-                <input type="submit" value="Cadastrar" id="bt_cd">
-            </form>
-        </div>
+        <form action="servidor.php" method="post">
+            <h2>Login</h2>
+            <img src="icone-usuario.png">
+            <input type="text" id="Usuário" name="Usuário" placeholder="Insira o Usuário" required> <br>
+            <input type="password" placeholder="Insira sua senha" name="senha" id="senha" required>
+            <input type="submit" value="Cadastrar" id="bt_cd">
+        </form>
     </div>
 </body>
 </html>
