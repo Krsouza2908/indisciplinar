@@ -55,13 +55,3 @@
         border: none;
     }
 }
-body{
-    font-family: 'Trebuchet MS','Lucida Sans', Arial, sans-serif;
-    background-color: #ccc;
-}
-input#Usuário{
-    background-image: url(icone-usuario.png);
-    background-repeat: no-repeat;
-    background-position: 0.5em;
-    border: none;
-}
