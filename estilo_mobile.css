@@ -1,6 +1,6 @@
 /****************** Início da Página Login***************/
 #container{
-    display: block;
+    position: fixed;
     width: 500px;
     height: 500px;
     border: 2px solid white;
