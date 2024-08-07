@@ -29,6 +29,7 @@
         margin-top: 1em;
         border: 0.3em solid #cccccc64;
         cursor: pointer;
+        background-color: white;
     }
     input#Usuário{
         background-image: url(icone-usuario.png);
