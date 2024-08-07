@@ -1,15 +1,16 @@
+/****************** Início da Página Login***************/
 #container{
-        width: 320px;
-        height: 100%;
-        border: 2px solid white;
-        padding: 1em;
-        margin: auto;
+    width: 320px;
+    height: 100%;
+    border: 2px solid white;
+    padding: 1em;
+    margin: auto;
 }
 #container h2{
-        font-size: 3em;
-        text-align: center;
-        padding: 0.5em;
-        margin: auto;
+    font-size: 3em;
+    text-align: center;
+    padding: 0.5em;
+    margin: auto;
 }
 #container input{
     display: block;
@@ -56,3 +57,25 @@ input#Usuário{
     background-position: 0.5em;
     border: none;
 }
+/****************** Fim da Página Login***************/
+#container_recuperarSenha{
+    width: 320px;
+    height: 100%;
+    border: 2px solid white;
+    padding: 1em;
+    margin: auto;
+}
+#container_recuperarSenha h2{
+    font-size: 2em;
+}
+#container_recuperarSenha input{
+    width: 15em;
+    height: 2em;
+    padding-left: 3.5em;
+    background-image: url(iconeDeEmail.png);
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: 2.5em;
+}
+
+
