@@ -1,9 +1,10 @@
 @media (max-width: 1000px){
     #container{
-        width: 220px;
+        width: 320px;
         height: 100%;
         border: 2px solid white;
         padding: 1em;
+        margin: auto;
     }
     #container h2{
         font-size: 3em;
