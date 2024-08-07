@@ -1,11 +1,11 @@
 /****************** Início da Página Login***************/
 #container{
-    position: fixed;
-    width: 500px;
-    height: 500px;
+    width: 320px;
+    height: 100%;
     border: 2px solid white;
     padding: 1em;
     margin: auto;
+    margin-left: 20em;
     margin-top: 20em;
 }
 #container h2{
